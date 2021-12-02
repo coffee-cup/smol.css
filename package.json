@@ -1,0 +1,17 @@
+{
+  "name": "smol.css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Jake Runzer",
+    "email": "jakerunzer@gmail.com"
+  },
+  "scripts": {
+    "start": "http-server ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
